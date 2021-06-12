@@ -1,0 +1,18 @@
+h1
+{
+	color: black; 
+	font-size: 40px;
+    font-family: cursive;
+}
+.body_backgorund {
+	background-image: Url("https://i.postimg.cc/fLXNc8ff/wallpaper-4653183-1280.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: #ffffff;
+border-style: ridge;
+
+}
